@@ -16,5 +16,6 @@ name: 'ContainerPage',
  max-width: 1100px;
  display: flex;
 flex-wrap: wrap;
+justify-content: center;
 }
 </style>

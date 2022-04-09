@@ -53,7 +53,7 @@ export default  [
     img: "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
     rating: 3.7,
     location: {
-      city: 'Korosten',
+      city: 'Dnipro',
     },
     ovner: {
       name:'Elena',
@@ -68,7 +68,7 @@ export default  [
     img: "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
     rating: 3.7,
     location: {
-      city: 'Korosten',
+      city: 'Odesa',
     },
     ovner: {
       name:'Elena',
@@ -79,11 +79,11 @@ export default  [
     id: "rgfdjgf5",
     title: "Title some",
     descript: " lorem20 ",
-    price: 1254,
+    price: 3254,
     rating: 2.7,
     img: "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
     location: {
-      city: 'Korosten',
+      city: 'Odesa',
     },
     ovner: {
       name:'Elena',
@@ -94,11 +94,11 @@ export default  [
     id: "rgfdjgf6",
     title: "Title some",
     descript: " lorem20 ",
-    price: 1254,
+    price: 2254,
     rating: 3.7,
     img: "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
     location: {
-      city: 'Korosten',
+      city: 'Kiev',
     },
     ovner: {
       name:'Elena',

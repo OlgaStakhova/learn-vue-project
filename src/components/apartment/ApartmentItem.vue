@@ -43,13 +43,14 @@ export default {
             console.log('click')
         }
     }
+    
 }
 </script>
 
 <style lang="scss" scouped>
     .apartment-item {
         position: relative;
-        max-width: 350px;
+        width: 33.33%;;
         padding: 0 20px;
 
         &__inner {
